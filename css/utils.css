@@ -1,0 +1,28 @@
+.m-ct-l {
+    margin-bottom: 100px;
+}
+
+.m-ct-m {
+    margin-bottom: 80px;
+}
+
+.btn-l{
+    width: 240px;
+    height: 54px;
+}
+
+.btn-s {
+    width: 201px;
+    height: 55px;
+}
+
+/* LIST ACTIVE */
+.active::after {
+    content: "";
+    height: 4px;
+    background-color: #000;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
