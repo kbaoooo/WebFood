@@ -1,9 +1,9 @@
 .m-ct-l {
-    margin-bottom: 100px;
+    margin-bottom: 80px;
 }
 
 .m-ct-m {
-    margin-bottom: 80px;
+    margin-bottom: 60px;
 }
 
 .btn-l{
@@ -17,7 +17,7 @@
 }
 
 /* LIST ACTIVE */
-.active::after {
+.currentMenuItem::after {
     content: "";
     height: 4px;
     background-color: #000;

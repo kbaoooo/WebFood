@@ -138,14 +138,9 @@
     width: 100%;
 }
 
-/* BODY */
-.main-content {
-    padding: 35px;
-    text-align: center;
-}
-
 .intro {
-    padding: 15px 0 35px;
+    text-align: center;
+    padding-top: 58px;
 }
 
 .intro-title {
@@ -159,6 +154,12 @@
     padding: 0 100px;
     font-weight: 400;
     line-height: 31px;
+}
+
+
+/* BODY */
+.main-content {
+    padding: 35px;
 }
 
 .recipes {
