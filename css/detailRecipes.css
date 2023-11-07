@@ -156,6 +156,8 @@
 
 /* BODY */
 .main-content {
+    display: flex;
+    justify-content: center;
     padding: 35px;
 }
 

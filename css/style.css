@@ -229,7 +229,14 @@
 
 /* BODY */
 .main-content {
+    display: flex;
+    justify-content: center;
     padding: 35px;
+}
+
+.mid-content {
+    max-width: 1200px;
+    width: 1200px;
 }
 
 .about {

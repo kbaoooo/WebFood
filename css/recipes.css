@@ -159,10 +159,14 @@
 
 /* BODY */
 .main-content {
+    display: flex;
+    justify-content: center;
     padding: 35px;
 }
 
 .recipes {
+    max-width: 1272px;
+    width: 1272px;
     padding: 0 25px;
 }
 
