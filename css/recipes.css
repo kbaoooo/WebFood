@@ -166,10 +166,11 @@
     padding: 0 25px;
 }
 
-.row {
+.recipes .row {
     padding: 20px 0 0 0;
     border-top: 1px solid #494949;
     margin-bottom: 37px;
+    justify-content:flex-start;
 }
 
 .row:last-child {
@@ -177,7 +178,8 @@
 }
 
 .card-recipe {
-    width: 273px;
+    width: 293px;
+    min-width: 293px;
     height: 660px;
     margin: 0 10px;
     text-align: left;
